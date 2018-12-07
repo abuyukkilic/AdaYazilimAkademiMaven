@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jdbc_l01_introduction;
+package jdbc.l01.introduction;
 
 import java.sql.*;
 
